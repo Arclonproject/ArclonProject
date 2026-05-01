@@ -1,5 +1,4 @@
-<img src="https://i.ibb.co/jvCFgvSj/banner.jpg" width="100%">
-
+<img src="https://i.ibb.co/FQBzs3Q/Screenshot-7.png" width="100%">
 
 # ⚡️ Arclon Project
 ### Open-source protocol for financial guarantees and decentralized economy.
