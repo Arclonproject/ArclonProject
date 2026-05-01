@@ -1,4 +1,5 @@
-<img src="https://fotora.ru/uploaded/UNARZ01052026165255.jpg" width="100%">
+![Uploading photo_2026-03-21_18-58-07.jpg…]()
+
 
 # ⚡️ Arclon Project
 ### Open-source protocol for financial guarantees and decentralized economy.
