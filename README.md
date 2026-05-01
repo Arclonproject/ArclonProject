@@ -1,4 +1,4 @@
-<img src="https://fotora.ru/uploaded/UNARZ01052026165255.png" width="100%">
+[<img src="https://fotora.ru/uploaded/UNARZ01052026165255.png" width="100%">](https://pixsafe.online/i/gLnE9)
 
 
 # ⚡️ Arclon Project
@@ -10,9 +10,6 @@
 - 🌐 Blockchain Infrastructure
 - 🔐 Decentralized Security
 - 💎 DeFi Protocols
-
-### 📈 Stats:
-тут можно вставить красивые карточки (см. ниже)
 
 ### 📫 Contact me:
 - **Telegram:** [@ArclonProject](https://t.me/arclonproject)
