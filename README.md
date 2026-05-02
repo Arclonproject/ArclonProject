@@ -1,20 +1,16 @@
-<img src="https://i.ibb.co/Z69hzhfz/photo-2026-04-02-03-13-44.jpg" width="100%">
+# Arclon Project
 
-###  About us
-**Arclon** — This is an innovative decentralized protocol for ensuring the security of financial transactions in Web3. We are creating a transparent ecosystem where financial guarantees are based on smart contracts.
+### Official Notice
 
--  **Security:** Decentralized data protection.
--  **Economy:** Stability of DeFi markets.
--  **Availability:** Open source code.
+Please be advised that the source code for the Arclon software, previously hosted in this repository, is currently unavailable. The absence of data is due to critical technical synchronization failures and data integrity issues encountered on the GitHub platform, which resulted in the suspension of access to the project assets.
+
+At this time, we are working to resolve these technical complications. Until full access is restored, all project-related information, technical documentation, and relevant data have been transferred to our strategic partners.
+
+For detailed information and inquiries, please refer to our official partner:
+
+**Lermess**
+[lermess.pro](https://lermess.pro)
 
 ---
-
-###  Tech Stack:
--  Blockchain Infrastructure
--  Decentralized Security
--  DeFi Protocols
-
-###  Contact me:
-- Telegram: [@ArclonProject](https://t.me/arclonproject)
-- Website: [arclon.xyz](arclon.xyz@gmail.com)
+© 2026 Arclon Project. All rights reserved.
 
